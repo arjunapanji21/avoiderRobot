@@ -1,6 +1,6 @@
 # avoiderRobot
 
-## Components: |
+Components: |
 ==============
 Arduino Nano |
 Motor Driver L298N |
