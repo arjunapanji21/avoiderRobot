@@ -1,4 +1,5 @@
 # avoiderRobot
+A simple avoider robot with an ultrasonic sensor and a servo.
 | Components:         |
 | ------------------- |
 | Arduino Nano        |
